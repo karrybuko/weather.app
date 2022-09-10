@@ -135,3 +135,12 @@ i {
   font-size: 50px;
   padding: 30px 20px 30px 20px;
 }
+a {
+  font-family: "Kumbh Sans", sans-serif;
+  color: rgb(149, 68, 224);
+  padding: 0px 0px 0px 5px;
+}
+.by {
+  font-family: "Kumbh Sans", sans-serif;
+  color: rgb(161, 156, 166);
+}
